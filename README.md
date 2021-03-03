@@ -1,4 +1,4 @@
-#Aqui está um desafio que resolvi no Frontend Mentor, que era criar um sistema de grid em um layout de depoimentos.
+#Aqui está um desafio que resolvi no Frontend Mentor, que era criar um sistema de grid para um layout de depoimentos.
 
 # Frontend Mentor - Testimonials grid section
 
